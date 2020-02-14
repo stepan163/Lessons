@@ -1,6 +1,0 @@
-Header file -- stdio.h
-    Functions:
-
-	printf("Hello\n");
-	scanf("%d", &varaible);
-	puts("");
